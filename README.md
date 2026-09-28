@@ -3,7 +3,7 @@ Customize your Leaflet story map with linked Google Sheets template and scrollin
 
 ## Live links (replace with your own)
 - Leaflet Map https://isabellealleinaufp8.github.io/Schadstoffbelastung-auf-P8/ 
-- Google Sheets template https://docs.google.com/spreadsheets/d/13-MEBFsKaqjqdfWdyDNWXvp7tZGOHRgYS4XqcsYLHDw/edit?gid=0
+- Google Sheets template https://docs.google.com/spreadsheets/d/1tb4HYguISvWnWEYv85Bx0GJL9t4e70txqgpVSi6BqPM/edit?gid=0#gid=0 
 
 ## Credits (and licenses)
 Developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Connecticut Humanities and Trinity College, CT. Inspired by Code for Atlanta mapsfor.us (2016) https://github.com/codeforatlanta/mapsforus (BSD-3-Clause). Adapted from MUX Lab, Map Effects 100: https://github.com/muxlab/map-effects-100, see http://muxlab.github.io/map-effects-100/Leaflet/11_scroll-driven-map-navigation.html.
