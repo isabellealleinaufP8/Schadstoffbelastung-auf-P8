@@ -329,7 +329,7 @@ $(this)
     for (i = 1; i < chapters.length; i++) {
       pixelsAbove[i] = pixelsAbove[i-1] + $('div#container' + (i-1)).height() + chapterContainerMargin;
     }
-    pixelsAbove.push(Number.MAX_VALUE);
+    pixelsAbove.push(Number.MAX_VALUE)
 
     $('div#contents').scroll(function() {
       var currentPosition = $(this).scrollTop();
